@@ -1,8 +1,9 @@
 # Spectroscopy-Analysis
+---
+## Repository Description
 
 R scripts for analyzing and plotting data from **UV–Vis absorption**, **circular dichroism (CD)**, and **fluorescence** experiments.  
-Course assignment (Molecular Biophysics): *“Analyse and plot data acquired from UV-VIS-/CD- and Fluorescence Microscopy. Compare and draw conclusions from the various used techniques.”*
----
+Course assignment: *“Analyse and plot data acquired from UV-VIS-/CD- and Fluorescence Microscopy. Compare and draw conclusions from the various used techniques.”*
 
 ## What each script does
 - **Absorption.R / Absorption Plot.R** – Import, process, and visualize UV–Vis spectra (λ vs. A).  
